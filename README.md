@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pythhl_logo.png" alt="PythHL Logo" width="250">
+  <img src="pythhl.png" alt="PythHL Logo" width="250">
 </p>
 
 # PythHL (Python High-Level)
